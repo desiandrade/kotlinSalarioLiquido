@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculoSalarioLiquido</string>
+    <string name="button_salario_liquido">Calcular Salário Líquido</string>
+    <string name="text_inicial">O que você deseja fazer?</string>
+    <string name="button_decimo_terceiro">Calcular Décimo Terceiro</string>
+    <string name="button_calcular_salario_liquido">Calcular</string>
+    <string name="text_descontos_salario">Insira descontos extras</string>
+    <string name="text_insira_salario_bruto">Insira seu salário bruto</string>
+</resources>
